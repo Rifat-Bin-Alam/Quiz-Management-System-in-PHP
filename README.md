@@ -174,7 +174,7 @@ Click Go
 
 Open your browser and go to:
 
-http://localhost/quiz-management-system/
+http://localhost/quiz_system/
 
 🔐 Default Sample Accounts (From SQL Dump)
 
@@ -182,7 +182,7 @@ You can use existing accounts from the database dump:
 
 Admin
 
-Email: rifat5566123@gmail.com
+Email: rifat@gmail.com
 
 Password: 123456
 
