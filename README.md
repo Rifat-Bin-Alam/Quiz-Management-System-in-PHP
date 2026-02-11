@@ -150,7 +150,7 @@ Admin controls teacher approval.
 
 🚀 Installation Guide
 1️⃣ Clone the Repository
-git clone https://github.com/your-username/quiz-management-system.git
+git clone https://github.com/Rifat-Bin-Alam/Quiz-Management-System-in-PHP
 
 2️⃣ Move Project Folder
 
